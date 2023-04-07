@@ -1,0 +1,15 @@
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/bin/Debug/net7.0/modul pbo 1
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/bin/Debug/net7.0/modul pbo 1.deps.json
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/bin/Debug/net7.0/modul pbo 1.runtimeconfig.json
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/bin/Debug/net7.0/modul pbo 1.dll
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/bin/Debug/net7.0/modul pbo 1.pdb
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/obj/Debug/net7.0/modul pbo 1.csproj.AssemblyReference.cache
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/obj/Debug/net7.0/modul pbo 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/obj/Debug/net7.0/modul pbo 1.AssemblyInfoInputs.cache
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/obj/Debug/net7.0/modul pbo 1.AssemblyInfo.cs
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/obj/Debug/net7.0/modul pbo 1.csproj.CoreCompileInputs.cache
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/obj/Debug/net7.0/modul pbo 1.dll
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/obj/Debug/net7.0/refint/modul pbo 1.dll
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/obj/Debug/net7.0/modul pbo 1.pdb
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/obj/Debug/net7.0/modul pbo 1.genruntimeconfig.cache
+/Users/aditwichaksana/Projects/modul pbo 1/modul pbo 1/obj/Debug/net7.0/ref/modul pbo 1.dll
